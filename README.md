@@ -1,0 +1,1 @@
+This project is a simple name generating application made using Flutter + Dart.
