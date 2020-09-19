@@ -1,1 +1,1 @@
-This project is a simple name generating application made using Flutter + Dart.
+This project is a simple name generating application made using Dart and Flutter UI kit.
